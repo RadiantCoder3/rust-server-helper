@@ -6,3 +6,4 @@ REQUIRES: requests
 #2. pip install requests (make sure env variables are set)
 #3. Open cmd or run using idle
 #4. Enjoy server!
+#5 Find C:\rustserver run dedicatedserver.exe
